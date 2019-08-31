@@ -1,3 +1,11 @@
+# Priya Aloor's First CS193 Homework
+
+Favorite things about CS193
+- That we are being introduced to important tools that we will need as Computer Science students by students who understand what we need,
+- That there are no exams/midterms,
+- The size of the class(not too big, not too small).
+
+
 ## Welcome to GitHub Pages- Introduction
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
